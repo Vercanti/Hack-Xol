@@ -2,6 +2,9 @@
 Small form factor toolhead originally designed to fit the Sovol Zero
 This toolhead takes inspiration from multiple toolheads, Micro Saul2, Xol Toolhead and Dragonburner.
 
+Initially I wanted something that I could retain the eddy sensor on my sovol zero to retain full functionality and I've done my best to do so,
+The Eddy sensor is rotated 90 degrees and embedded onto the mounting plate.
+
 Current supported hotends
 Rapido/Dragon and any hotend that shares their mounting pattern
 
