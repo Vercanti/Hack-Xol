@@ -1,6 +1,6 @@
 # Hack-Xol
 Small form factor toolhead originally designed to fit the Sovol Zero
-This toolhead takes inspiration from multiple toolheads, Micro Saul2, Xol Toolhead and Dragonburner.
+This toolhead takes inspiration from multiple toolheads, Micro Saul2(https://www.printables.com/model/524765-micro-saul2/comments/1088539), Xol Toolhead (https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) and Dragonburner/rapidburner (https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner/STLs/v0.2).
 
 Initially I wanted something that I could retain the eddy sensor on my sovol zero to retain full functionality and I've done my best to do so,
 The Eddy sensor is rotated 90 degrees and embedded onto the mounting plate.
